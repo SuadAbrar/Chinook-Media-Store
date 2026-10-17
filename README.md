@@ -1,4 +1,4 @@
-# Chinook SQL Data Quality Audit
+<!-- # Chinook SQL Data Quality Audit
 
 A beginner portfolio project that uses MySQL to investigate data quality in the Chinook sample digital media store. It pairs ten SQL transformation exercises with read-only checks for customer contact data, relationships, invoice values, and invoice-line consistency.
 
@@ -91,4 +91,4 @@ No screenshots are included because no query results were available to capture. 
 
 - Execute the validation checklist and attach real result screenshots.
 - Refine findings from observed results, including a clear “no issue detected” result where supported.
-- If expanding the project, add a small verified summary of affected records and an explanation of business impact rather than adding more checks without a clear purpose.
+- If expanding the project, add a small verified summary of affected records and an explanation of business impact rather than adding more checks without a clear purpose. -->
