@@ -1,0 +1,15 @@
+# Local VS Code SQLTools connection profile (contains machine-specific settings).
+.vscode/settings.json
+
+# Secrets and local configuration.
+.env
+.env.*
+!.env.example
+
+# Local database files and exports.
+*.db
+*.sqlite
+*.sqlite3
+*.dump
+*.bak
+
